@@ -1,0 +1,6 @@
+D:\Cris\MeusCursos\CSharp\C#\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe.config
+D:\Cris\MeusCursos\CSharp\C#\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe
+D:\Cris\MeusCursos\CSharp\C#\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.pdb
+D:\Cris\MeusCursos\CSharp\C#\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.csprojAssemblyReference.cache
+D:\Cris\MeusCursos\CSharp\C#\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.exe
+D:\Cris\MeusCursos\CSharp\C#\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.pdb

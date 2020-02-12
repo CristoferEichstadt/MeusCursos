@@ -1,0 +1,10 @@
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\11-CalculaPoupanca2\bin\Debug\netcoreapp3.1\11-CalculaPoupanca2.exe
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\11-CalculaPoupanca2\bin\Debug\netcoreapp3.1\11-CalculaPoupanca2.deps.json
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\11-CalculaPoupanca2\bin\Debug\netcoreapp3.1\11-CalculaPoupanca2.runtimeconfig.json
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\11-CalculaPoupanca2\bin\Debug\netcoreapp3.1\11-CalculaPoupanca2.runtimeconfig.dev.json
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\11-CalculaPoupanca2\bin\Debug\netcoreapp3.1\11-CalculaPoupanca2.dll
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\11-CalculaPoupanca2\bin\Debug\netcoreapp3.1\11-CalculaPoupanca2.pdb
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\11-CalculaPoupanca2\obj\Debug\netcoreapp3.1\11-CalculaPoupanca2.AssemblyInfoInputs.cache
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\11-CalculaPoupanca2\obj\Debug\netcoreapp3.1\11-CalculaPoupanca2.AssemblyInfo.cs
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\11-CalculaPoupanca2\obj\Debug\netcoreapp3.1\11-CalculaPoupanca2.dll
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\11-CalculaPoupanca2\obj\Debug\netcoreapp3.1\11-CalculaPoupanca2.pdb

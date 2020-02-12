@@ -1,0 +1,3 @@
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\10 -CalculaPoupanca\obj\Debug\netcoreapp3.1\10 -CalculaPoupanca.csprojAssemblyReference.cache
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\10 -CalculaPoupanca\obj\Debug\netcoreapp3.1\10 -CalculaPoupanca.AssemblyInfoInputs.cache
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\10 -CalculaPoupanca\obj\Debug\netcoreapp3.1\10 -CalculaPoupanca.AssemblyInfo.cs

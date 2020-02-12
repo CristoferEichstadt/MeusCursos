@@ -1,0 +1,11 @@
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\12-CalculaInvestimentoLongoPrazo.exe
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\12-CalculaInvestimentoLongoPrazo.deps.json
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\12-CalculaInvestimentoLongoPrazo.runtimeconfig.json
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\12-CalculaInvestimentoLongoPrazo.runtimeconfig.dev.json
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\12-CalculaInvestimentoLongoPrazo.dll
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\12-CalculaInvestimentoLongoPrazo.pdb
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\12-CalculaInvestimentoLongoPrazo.csprojAssemblyReference.cache
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\12-CalculaInvestimentoLongoPrazo.AssemblyInfoInputs.cache
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\12-CalculaInvestimentoLongoPrazo.AssemblyInfo.cs
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\12-CalculaInvestimentoLongoPrazo.dll
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\12-CalculaInvestimentoLongoPrazo.pdb

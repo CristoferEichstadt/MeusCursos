@@ -1,0 +1,11 @@
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-Tabuada\bin\Debug\netcoreapp3.1\12-Tabuada.exe
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-Tabuada\bin\Debug\netcoreapp3.1\12-Tabuada.deps.json
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-Tabuada\bin\Debug\netcoreapp3.1\12-Tabuada.runtimeconfig.json
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-Tabuada\bin\Debug\netcoreapp3.1\12-Tabuada.runtimeconfig.dev.json
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-Tabuada\bin\Debug\netcoreapp3.1\12-Tabuada.dll
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-Tabuada\bin\Debug\netcoreapp3.1\12-Tabuada.pdb
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-Tabuada\obj\Debug\netcoreapp3.1\12-Tabuada.csprojAssemblyReference.cache
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-Tabuada\obj\Debug\netcoreapp3.1\12-Tabuada.AssemblyInfoInputs.cache
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-Tabuada\obj\Debug\netcoreapp3.1\12-Tabuada.AssemblyInfo.cs
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-Tabuada\obj\Debug\netcoreapp3.1\12-Tabuada.dll
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\12-Tabuada\obj\Debug\netcoreapp3.1\12-Tabuada.pdb

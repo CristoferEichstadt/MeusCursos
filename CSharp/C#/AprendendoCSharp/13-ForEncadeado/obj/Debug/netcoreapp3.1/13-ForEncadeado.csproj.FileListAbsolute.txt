@@ -1,0 +1,11 @@
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\13-ForEncadeado\bin\Debug\netcoreapp3.1\13-ForEncadeado.exe
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\13-ForEncadeado\bin\Debug\netcoreapp3.1\13-ForEncadeado.deps.json
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\13-ForEncadeado\bin\Debug\netcoreapp3.1\13-ForEncadeado.runtimeconfig.json
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\13-ForEncadeado\bin\Debug\netcoreapp3.1\13-ForEncadeado.runtimeconfig.dev.json
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\13-ForEncadeado\bin\Debug\netcoreapp3.1\13-ForEncadeado.dll
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\13-ForEncadeado\bin\Debug\netcoreapp3.1\13-ForEncadeado.pdb
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\13-ForEncadeado\obj\Debug\netcoreapp3.1\13-ForEncadeado.csprojAssemblyReference.cache
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\13-ForEncadeado\obj\Debug\netcoreapp3.1\13-ForEncadeado.AssemblyInfoInputs.cache
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\13-ForEncadeado\obj\Debug\netcoreapp3.1\13-ForEncadeado.AssemblyInfo.cs
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\13-ForEncadeado\obj\Debug\netcoreapp3.1\13-ForEncadeado.dll
+D:\Cris\MeusCursos\CSharp\C#\AprendendoCSharp\13-ForEncadeado\obj\Debug\netcoreapp3.1\13-ForEncadeado.pdb
